@@ -1,5 +1,3 @@
-Here is a `README.md` file that you can include in your Ansible role repository:
-
 ```markdown
 # CIS Rocky Linux 8 Benchmark Ansible Role
 
