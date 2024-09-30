@@ -1,4 +1,3 @@
-```markdown
 # CIS Rocky Linux 8 Benchmark Ansible Role
 
 This Ansible role implements the recommendations from the **CIS Rocky Linux 8 Benchmark**, designed to secure Rocky Linux 8 systems. It provides comprehensive coverage of system hardening tasks such as SSH security, file system configurations, kernel module management, service management, network security, auditing, and logging.
